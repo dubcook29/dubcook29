@@ -14,8 +14,18 @@ I can:
 
 ***
 
+[![language & framework](https://skillicons.dev/icons?i=golang,python,php,html,css,js,ts,powershell,vue,nodejs,nextjs)](https://github.com/dubcook29/#)
+
+[![databases & services](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,redis,nginx)](https://github.com/dubcook29/#)
+
+[![tools & software](https://skillicons.dev/icons?i=docker,git,github,vscode,sublime,md,obsidian,kali,postman,npm,windows,linux,apple)](https://github.com/dubcook29/#)
+
+***
+
 <div align="center">
 
-**May we all work happily in the AI ​​era.**
+**✨ May we all work happily in the AI ​​era ✨**
 
 </div>
+
+***
