@@ -22,6 +22,22 @@ I can:
 
 ***
 
+What I'm currently doing (outside of work hours):
+
+> This is also my to-do list for 2026. 😊
+
+- I'm researching and developing a tool to assist penetration testing, which I call "Practical Penetration Testing Intelligent Assistant." It utilizes LLM to help penetration testing engineers complete tasks. It can also automate some penetration testing tasks ([`suitcase-butler`](https://github.com/dubcook29/suitcase-butler) is an experimental demo validating the automation capabilities). I hope to see it on GitHub in 2026.
+
+- I'm also researching and drafting a collection system for "capturing current cybersecurity-related intelligence (dynamics) in cyberspace." Because the idea is still immature, it hasn't been implemented yet. In the future, once the workflow for collection, sorting, tagging, aggregating, and reporting is mature and can practically help everyone, it will be made available to all through a web service and open-sourced.
+
+- I'm compiling, collecting, and writing technical resources related to cybersecurity, and upload them on GitHub for everyone to access. Perhaps in the AI ​​era, people won't be interested in spending time on these resources, but I hope that people can retrieve them when needed.
+
+- I am also actively learning more professional full-stack development technologies and agent development, and learn more new technologies.
+
+- I will attempt to publish long technical articles, which I am not particularly good at. (This will be an interesting thing, and I will try to do it. It is indeed difficult to stick to it. I wrote short and medium-length technical articles for about four years (not in-depth) when I first started working and during my school years, but it was not continued, which is a pity.)
+
+***
+
 <div align="center">
 
 **✨ May we all work happily in the AI ​​era ✨**
